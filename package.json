@@ -1,0 +1,18 @@
+{
+  "name": "prettier-config-todomir",
+  "version": "1.0.0",
+  "description": "Todomir's personal Prettier config",
+  "main": "prettier.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abner Rodrigues <abnerluis1001@gmail.com>",
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "prettier-config"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.4.0"
+  }
+}

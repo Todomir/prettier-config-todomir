@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-todomir",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Todomir's personal Prettier config",
   "main": "prettier.config.js",
   "author": "Abner Rodrigues <abnerluis1001@gmail.com>",
